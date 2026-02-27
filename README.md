@@ -1,0 +1,1 @@
+# Powershell-Abuse-Detection-Wazuh-Sysmon-
